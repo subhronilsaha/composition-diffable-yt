@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "61DA919F-55CE-4ECA-AC31-4DA4BD2DB4D9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6594339-8A89-4015-9816-73002BE57952"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayout/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "createViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6594339-8A89-4015-9816-73002BE57952 - 47c0838e37d4b990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayout.ViewController.createViews() -&gt; ()"
+                  moduleName = "CompositionalLayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhroniltest/Desktop/Duke/Youtube/Compositional%20Layout%20Video/CompositionalLayout/CompositionalLayout/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "A6594339-8A89-4015-9816-73002BE57952 - 47c0838e37d4b990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayout.ViewController.createViews() -&gt; ()"
+                  moduleName = "CompositionalLayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhroniltest/Desktop/Duke/Youtube/Compositional%20Layout%20Video/CompositionalLayout/CompositionalLayout/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "701607B7-16E2-45F2-9787-C23E5E2BBF1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayout/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "setupCollectionView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "701607B7-16E2-45F2-9787-C23E5E2BBF1C - 319c467ed6e04abf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayout.ViewController.setupCollectionView() -&gt; ()"
+                  moduleName = "CompositionalLayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhroniltest/Desktop/Duke/Youtube/Compositional%20Layout%20Video/CompositionalLayout/CompositionalLayout/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "701607B7-16E2-45F2-9787-C23E5E2BBF1C - 319c467ed6e04abf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayout.ViewController.setupCollectionView() -&gt; ()"
+                  moduleName = "CompositionalLayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhroniltest/Desktop/Duke/Youtube/Compositional%20Layout%20Video/CompositionalLayout/CompositionalLayout/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
